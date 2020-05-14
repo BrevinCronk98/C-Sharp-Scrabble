@@ -18,7 +18,7 @@ namespace Program
       }
       catch (Exception ex)
       {
-
+        Console.WriteLine("Message: {0}", ex.Message);
       }
     }
   }
