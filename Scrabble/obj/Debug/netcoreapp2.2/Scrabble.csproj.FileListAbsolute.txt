@@ -7,3 +7,5 @@
 /Users/suzannedeakins/Desktop/Epicodus/Scrabble.Solution/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.pdb
 /Users/suzannedeakins/Desktop/Epicodus/Scrabble.Solution/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.dll
 /Users/suzannedeakins/Desktop/Epicodus/Scrabble.Solution/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.pdb
+/Users/suzannedeakins/Desktop/Epicodus/Scrabble.Solution/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.runtimeconfig.json
+/Users/suzannedeakins/Desktop/Epicodus/Scrabble.Solution/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.runtimeconfig.dev.json
